@@ -13,7 +13,7 @@ name                     : &name "Anoop Kunchukuttan"
 description              : &description "Natural Language Processing and Machine Learning"
 url                      : https://anoopkunchukuttan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "anoopkunchukuttan/anoopkunchukuttan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Anoop Kunchukuttan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Natural Language and Machine Learning Researcher. I am particularly interested in Machine Translation and Multilingual learning"
   location         : "Hyderabad, India"
-  employer         :
+  employer         : "Microsoft AI and Research"
   googlescholar    : "https://scholar.google.com/citations?user=jnoUuGcAAAAJ&hl=en"
   email            :
   uri              :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/anoopkunchukuttan"
+  linkedin         : "anoopkunchukuttan"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -249,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
