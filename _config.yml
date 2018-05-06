@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Anoop Kunchukuttan"
   avatar           : "profile.png"
-  bio              : "Natural Language and Machine Learning Researcher. I am particularly interested in Machine Translation and Multilingual learning"
+  bio              : "Natural Language Processing and Machine Learning Researcher"
   location         : "Hyderabad, India"
   employer         : "Microsoft AI and Research"
   googlescholar    : "https://scholar.google.com/citations?user=jnoUuGcAAAAJ&hl=en"
@@ -253,7 +253,7 @@ timezone: Asia/Kolkata # http://en.wikipedia.org/wiki/List_of_tz_database_time_z
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
